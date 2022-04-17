@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: webapp
-        image: gcr.io/lab-gke-314220/webapp
+        image: gcr.io/atlantean-axon-346612/webapp
         ports:
         - containerPort: 5000
